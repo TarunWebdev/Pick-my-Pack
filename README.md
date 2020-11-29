@@ -9,7 +9,7 @@ Author:
 <br>
 <a href="https://www.linkedin.com/in/dinukanavaratna/" target="_blank">Dinuka Navaratna</a>
 <br>
-Harsh Gajjar
+Harsh Sachaniya
 
 
 Devpost: https://devpost.com/software/pick-my-pack
