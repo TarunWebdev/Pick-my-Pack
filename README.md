@@ -4,12 +4,11 @@ Enjoy Shopping, Without Worrying...😉
 Android + Web Application
 
 Author: 
+Android App : <a href="https://www.linkedin.com/in/dinukanavaratna/" target="_blank">Dinuka Navaratna</a>
 <br>
-<a href="https://www.linkedin.com/in/tarun-sharma-1b3a4418b/" target="_blank">Tarun Sharma</a>
+Web App : <a href="https://www.linkedin.com/in/tarun-sharma-1b3a4418b/" target="_blank">Tarun Sharma</a> , Harsh Sachaniya
 <br>
-<a href="https://www.linkedin.com/in/dinukanavaratna/" target="_blank">Dinuka Navaratna</a>
-<br>
-Harsh Sachaniya
+
 
 
 Devpost: https://devpost.com/software/pick-my-pack
