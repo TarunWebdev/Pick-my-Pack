@@ -4,6 +4,7 @@ Enjoy Shopping, Without Worrying...😉
 Android + Web Application
 
 Author: 
+<br>
 Android App : <a href="https://www.linkedin.com/in/dinukanavaratna/" target="_blank">Dinuka Navaratna</a>
 <br>
 Web App : <a href="https://www.linkedin.com/in/tarun-sharma-1b3a4418b/" target="_blank">Tarun Sharma</a> , Harsh Sachaniya
